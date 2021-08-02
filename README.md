@@ -8,4 +8,4 @@ This repo contains resources related to the webinar hosted by ForSet on Making t
 
 * [Links to academic papers, articles and other resources](https://github.com/hanna-h2/ForSet-Webinar/blob/main/CTlinks.md)
 
-* [Books]
+* [Books](https://github.com/hanna-h2/ForSet-Webinar/blob/main/Books.md) 
