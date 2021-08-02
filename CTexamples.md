@@ -4,7 +4,7 @@ Computational thinking is the thought process that comes before any computing te
 
 ### H3 Example: “I would have killed her anyway”. Kloop’s investigation of femicide in Kyrgyzstan
 ---
-[This story by Kloop] (https://kloop.kg/blog/2021/01/28/femicide-in-kyrgyzstan/) won the 2021 Sigma Awards. It looks at the prevalence of femicide in Kyrgyzstan and is a good example of computational thinking.
+[This story by Kloop](https://kloop.kg/blog/2021/01/28/femicide-in-kyrgyzstan/) won the 2021 Sigma Awards. It looks at the prevalence of femicide in Kyrgyzstan and is a good example of computational thinking.
 
 It is a good example of decomposition and pattern recognition. Journalists at Kloop scraped 54,000 news articles from Kyrgyzstan's largest news agency. 
 
