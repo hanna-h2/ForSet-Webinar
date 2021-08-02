@@ -1,5 +1,4 @@
 ## H2 Examples of computational thinking in data stories 
----
 Computational thinking is the thought process that comes before any computing technology - thought out by a human with an awareness of the power of automation. 
 
 ### H3 Example: “I would have killed her anyway”. Kloop’s investigation of femicide in Kyrgyzstan
