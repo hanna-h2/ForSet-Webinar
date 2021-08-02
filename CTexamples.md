@@ -1,7 +1,7 @@
-## H2 Examples of computational thinking in data stories 
+## Examples of computational thinking in data stories 
 Computational thinking is the thought process that comes before any computing technology - thought out by a human with an awareness of the power of automation. 
 
-### H3 Example: “I would have killed her anyway”. Kloop’s investigation of femicide in Kyrgyzstan
+### Example: “I would have killed her anyway”. Kloop’s investigation of femicide in Kyrgyzstan
 ---
 [This story by Kloop](https://kloop.kg/blog/2021/01/28/femicide-in-kyrgyzstan/) won the 2021 Sigma Awards. It looks at the prevalence of femicide in Kyrgyzstan and is a good example of computational thinking.
 
@@ -11,7 +11,7 @@ After developing a criteria of at least 12 indicators for what constituted femic
 
 Techniques used in this story include: Python, Scraping, data analysis in Python and Google Sheets, and visualisations made using Flourish. 
 
-### H3 Example: Sport climbing to make its Olympic debut: Who are the athletes to watch out for?
+### Example: Sport climbing to make its Olympic debut: Who are the athletes to watch out for?
 ---
 [The second example](https://www.thatfigures.org/interactive/climbing-olympics-2021/) by Niels de Hoog is a scrollytelling feature explaining climbing at the Olympics and which athletes are likely to bode well during the tournament.   
 
